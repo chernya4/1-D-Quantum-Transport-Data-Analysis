@@ -47,10 +47,10 @@ The user is prompted to:
 ### ✅ Fit Equation
 
 The notebook fits current vs. gate voltage to the following quadratic form:
-
-\[
+ 
+$$
 I = \mu C \frac{L}{V_{\text{bias}}} (V_{\text{g}} - V_{\text{th}})^2 + R_c
-\]
+$$
 
 - **μ**: Carrier mobility
 - **C**: Gate capacitance (estimated)
